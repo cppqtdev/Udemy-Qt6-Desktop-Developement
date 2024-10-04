@@ -1,1 +1,2 @@
-# Udemy Course QT6 For Desktop Developement 
+# Udemy Course QT6 For Desktop Development 
+ 
